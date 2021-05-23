@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "10553176273",
+    "project_id": "climbup-e896",
+    "storage_bucket": "climbup-e896.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:10553176273:android:26a49068422fb02f9655f0",
+        "android_client_info": {
+          "package_name": "com.example.climbup"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "10553176273-cnh7vd2isskh8mace2269g279bb7l7hb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAbzEXl-uSO_tMLabq7YtrWmz67O0qlx4g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "10553176273-cnh7vd2isskh8mace2269g279bb7l7hb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
