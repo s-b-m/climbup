@@ -18,4 +18,4 @@ climbUp is an application built for CSCI490 as a capstone project. It is designe
 - Dart
 - Google Maps
 - Firebase/Firestore
-- (This excellent tutorial by RetroPortal)[https://www.youtube.com/watch?v=McPzVZZRniU]
+- [This excellent tutorial by RetroPortal](https://www.youtube.com/watch?v=McPzVZZRniU)
